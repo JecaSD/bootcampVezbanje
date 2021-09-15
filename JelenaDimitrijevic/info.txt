@@ -1,3 +1,18 @@
 Ime Prezime: Jelena Dimitrijevic
 Zanimanje: Student
 github_acc: JecaSD
+github_acc_url: https://github.com/JecaSD
+
+Commands in git:
+- Adding manual new remote repo bootcampVezbanje
+- Adding manual on remote repo bootcampVezbanje, new file vezba.txt
+- git clone git@github.com:JecaSD/bootcampVezbanje.git  -- cloning bootcampVezbanje repo to local
+- cd bootcampVezbanje/   -- entry into cloned repo
+- mkdir JelenaDimitrijevic  -- creating new folder JelenaDimitrijevic into cloned repo
+- cd JelenaDimitrijevic/    -- stepping into newly created folder JelenaDimitrijevic
+- notepad info.txt  -- creating new file with notepad, info.txt 
+- cd..  -- going one step back into parent folder
+- git status -- checking status
+- git add * -- adding evrything to commit
+- git commit -m "Adding new folder JelenaDimitrijevic"
+- git push
